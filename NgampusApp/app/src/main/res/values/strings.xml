@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Ngampus</string>
+
+    <string name="database_name">absensy</string>
+
+    <string name="subject">subject</string>
+
+    <string name="setting">setting</string>
+    <string name="settings">Settings</string>
+    <string name="save">SAVE</string>
+    <string name="delete">Delete</string>
+
+    <string name="notification_channel_name_class_reminder">ClassReminder</string>
+    <string name="home">Home</string>
+    <string name="add_new_subject">Tambah mata kuliah baru</string>
+    <string name="finish">FINISH</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="max_absence_amount">Maksimal jumlah absen</string>
+    <string name="class_reminder">Pengingat menjelang kuliah</string>
+    <string name="subject_name">Mata kuliah</string>
+    <string name="submit">SUBMIT</string>
+    <string name="click_to_choose_class_time">Klik untuk memilih waktu kuliah</string>
+    <string name="class_schedule">Jadwal kuliah</string>
+    <string name="dialog_absence_title">Yakin mau absen??</string>
+    <string name="do_absence">ABSEN KULIAH INI</string>
+    <string name="dialog_choose_option_title">Mau ngapain?</string>
+    <string name="intro_1_title">Mencatat Mata Kuliah</string>
+    <string name="intro_1_body">Kamu bisa mencatat semua mata kuliah kamu di aplikasi ini</string>
+    <string name="intro_2_title">Mencatat Jumlah Absen</string>
+    <string name="intro_2_body">Aplikasi ini juga bisa mencatat jumlah absenmu saat kamu gak bisa masuk kelas</string>
+    <string name="intro_3_title">Memberi Notifikasi</string>
+    <string name="intro_3_body">Aplikasi ini juga akan memberi notifikasi ke kamu 30 menit sebelum kuliah. Gunanya untuk ngasih tau kamu udah kosong berapa kali di kuliah tersebut.</string>
+    <string name="absence_details_title">Detail Absen</string>
+    <string name="clap_never_absence">clap never absence</string>
+    <string name="never_absence_message">Mantapppp kamu belum pernah absen kuliah ini,  LANJUTKAN!</string>
+    <string name="about">About</string>
+    <string name="what_is_absensy_text">Aplikasi Ngampus ini memiliki fungsi untuk melakukan tracking terhadap jumlah absen/kosong setiap mata kuliah dengan harapan setiap mahasiswa tidak usah takut bahwa dia sudah melewati batas maksimum absen atau belum.</string>
+    <string name="how_to_develop_absensy_text">Ditujukan untuk Mahasiswa, Khususnya diri saya pribadi yang malas dan terkadang lupa</string>
+    <string name="github_link">https://github.com/axellageraldinc/android-Absensy</string>
+    <string name="tentang_absensy">Tentang Aplikasi Ngampus</string>
+
+    <string-array name="options">
+        <item>Lihat detail absen saya pada kuliah ini</item>
+        <item>Edit/hapus kuliah ini</item>
+        <item>Absen kuliah ini</item>
+    </string-array>
+
+    <string-array name="long_click_subject_options">
+        <item>Hapus kuliah ini</item>
+    </string-array>
+
+    <string-array name="days">
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
+        <item>Minggu</item>
+    </string-array>
+</resources>
